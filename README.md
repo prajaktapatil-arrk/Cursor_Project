@@ -1,4 +1,4 @@
-# Chocklingem Codes - Portfolio Website
+# Prajakta Codes - Portfolio Website      https://prajaktapatil-arrk.github.io/Cursor_Project/
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
@@ -44,4 +44,5 @@ Simply open `index.html` in your web browser to view the portfolio.
 ## License
 
 This project is open source and available for personal use.
+
 
